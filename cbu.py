@@ -15,7 +15,7 @@ def check_len(x,n):
     if len(x) != n:
     
         print("\n\nERROR: Número de dígitos incorrecto.\n")
-        EXIT = input("\n<<< Presione ENTER para salir >>>")
+        input("\n<<< Presione ENTER para salir >>>")
     
         sys.exit(1)
     
@@ -67,6 +67,6 @@ dv2 = get_digit(dif2)
 #%%
 
 print("\nCBU:", banco + sucursal + str(dv1) + cuenta + str(dv2), "\n")
-EXIT = input("\n<<< Presione ENTER para salir >>>")
+input("\n<<< Presione ENTER para salir >>>")
 
 sys.exit(0)
