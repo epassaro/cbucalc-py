@@ -1,2 +1,2 @@
 # cbucalc
-Calculadora Clave Bancaria Uniforme (CBU) de Argentina
+Calculadora Clave Bancaria Uniforme (CBU) de Argentina.
